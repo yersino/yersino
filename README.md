@@ -1,10 +1,10 @@
 ## Yersin Ordabay
 
-Cambridge Mathematics graduate. MSc Theoretical Physics student at King's College London.
+Cambridge Mathematics graduate. KCL Theoretical Physics student. 
 
 **Current work**
 
-* MSc dissertation on the Numerical Conformal Bootstrap and the 3D Ising model, using SDPB for conformal field theory computations
+* MSc dissertation on the Numerical Conformal Bootstrap for the 3D Ising model, using SDPB for conformal field theory computations
 * Algorithms team member for Bachelier Terminal, a KCPC quantitative finance startup project
 
 **Projects**
