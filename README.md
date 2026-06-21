@@ -1,16 +1,22 @@
-## Hi there 👋
+## Yersin Ordabay
 
-<!--
-**yersino/yersino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cambridge Mathematics graduate. MSc Theoretical Physics student at King's College London.
 
-Here are some ideas to get you started:
+**Current work**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* MSc dissertation on the Numerical Conformal Bootstrap and the 3D Ising model, using SDPB for conformal field theory computations
+* Algorithms team member for Bachelier Terminal, a KCPC quantitative finance startup project
+
+**Projects**
+
+* **Recession Predictor** — Machine learning pipeline using FRED macroeconomic data to estimate recession risk
+* **Project Euler** — Python solutions in number theory, combinatorics, and dynamic programming
+* **Playlist Bridge** — Chrome extension for converting playlists between Spotify and YouTube
+
+**Interests**
+
+Quantitative finance · scientific computing · machine learning · numerical methods · mathematical modelling · algorithms
+
+**Looking for**
+
+Graduate roles in quantitative finance, data, mathematical modelling, scientific computing, or research-adjacent software engineering.
