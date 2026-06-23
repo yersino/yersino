@@ -1,4 +1,4 @@
-```markdown id="github-readme"
+
 # Yersin Ordabay
 
 Cambridge Mathematics graduate and KCL Theoretical Physics MSc student, working on scientific computing, numerical methods, algorithms, and research-adjacent software.
