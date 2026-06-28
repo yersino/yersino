@@ -7,7 +7,6 @@ Cambridge Mathematics graduate and KCL Theoretical Physics MSc student, working 
 
 - MSc dissertation on the numerical conformal bootstrap for the 3D Ising model, using SDPB and conformal-block tooling.
 - Building a public portfolio around numerical modelling, algorithmic problem solving, and scientific Python.
-- Improving software engineering practice: Git, project structure, documentation, testing, and reproducible workflows.
 
 ## Selected public work
 
